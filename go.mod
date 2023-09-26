@@ -262,6 +262,7 @@ require (
 	sigs.k8s.io/kustomize/kyaml v0.13.6 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.1 // indirect
 	sigs.k8s.io/yaml v1.3.0 // indirect
+	github.com/golang/protobuf v1.3.1
 )
 
 exclude (
@@ -303,7 +304,6 @@ exclude (
 	github.com/golang/protobuf v1.2.0
 	github.com/golang/protobuf v1.2.1
 	github.com/golang/protobuf v1.3.0
-	github.com/golang/protobuf v1.3.1
 	// exclude github.com/hashicorp/vault < v1.5.1: https://nvd.nist.gov/vuln/detail/CVE-2020-16251
 	github.com/hashicorp/vault v0.10.4
 	github.com/hashicorp/vault v0.11.0
