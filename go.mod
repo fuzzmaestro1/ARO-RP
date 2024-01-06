@@ -262,9 +262,7 @@ require (
 	sigs.k8s.io/kustomize/kyaml v0.13.6 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.1 // indirect
 	sigs.k8s.io/yaml v1.3.0 // indirect
-	github.com/golang/protobuf v1.3.1
-	github.com/gogo/protobuf v1.3.0
-	github.com/hashicorp/vault v1.2.4
+	github.com/containerd/containerd v1.5.1
 )
 
 exclude (
@@ -281,7 +279,6 @@ exclude (
 	github.com/containerd/containerd v1.5.0-beta.3
 	github.com/containerd/containerd v1.5.0-beta.4
 	github.com/containerd/containerd v1.5.0-rc.0
-	github.com/containerd/containerd v1.5.1
 	github.com/containerd/containerd v1.5.2
 	github.com/containerd/containerd v1.5.7
 	github.com/containerd/containerd v1.5.9
@@ -337,7 +334,6 @@ exclude (
 	github.com/hashicorp/vault v1.2.0-rc1
 	github.com/hashicorp/vault v1.2.1
 	github.com/hashicorp/vault v1.2.2
-	github.com/hashicorp/vault v1.2.3
 	github.com/hashicorp/vault v1.3.0
 	github.com/hashicorp/vault v1.3.1
 	github.com/hashicorp/vault v1.3.2
@@ -353,7 +349,6 @@ exclude (
 	github.com/hashicorp/vault v1.4.0-rc1
 	github.com/hashicorp/vault v1.4.1
 	github.com/hashicorp/vault v1.4.2
-	github.com/hashicorp/vault v1.4.3
 	github.com/hashicorp/vault v1.5.0
 	github.com/hashicorp/vault v1.5.0-beta1
 	github.com/hashicorp/vault v1.5.0-beta2
