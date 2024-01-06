@@ -264,8 +264,7 @@ require (
 	sigs.k8s.io/yaml v1.3.0 // indirect
 	github.com/golang/protobuf v1.3.1
 	github.com/gogo/protobuf v1.3.0
-	github.com/hashicorp/vault v1.2.4
-	github.com/hashicorp/vault v1.2.3
+	github.com/hashicorp/vault v1.4.3
 )
 
 exclude (
@@ -353,7 +352,6 @@ exclude (
 	github.com/hashicorp/vault v1.4.0-rc1
 	github.com/hashicorp/vault v1.4.1
 	github.com/hashicorp/vault v1.4.2
-	github.com/hashicorp/vault v1.4.3
 	github.com/hashicorp/vault v1.5.0
 	github.com/hashicorp/vault v1.5.0-beta1
 	github.com/hashicorp/vault v1.5.0-beta2
