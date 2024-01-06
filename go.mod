@@ -265,6 +265,7 @@ require (
 	github.com/golang/protobuf v1.3.1
 	github.com/gogo/protobuf v1.3.0
 	github.com/hashicorp/vault v1.5.0
+	github.com/containerd/containerd v1.2.7
 )
 
 exclude (
